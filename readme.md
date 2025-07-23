@@ -35,3 +35,14 @@ Languages: Python  Libraries:
 ~scikit-learn – Machine learning models & evaluation
   - matplotlib, seaborn data visualization
  sklearn.feature_extraction.text.TfidfVectorizer – Text vectorization.
+
+# outputs
+<img width="660" height="584" alt="Screenshot 2025-07-23 220017" src="https://github.com/user-attachments/assets/254b2256-9973-415c-984f-eb5f69470f2c" />
+
+<img width="554" height="298" alt="Screenshot 2025-07-23 220007" src="https://github.com/user-attachments/assets/290bdf36-b045-42f2-a46e-bd87c2bce71d" />
+
+<img width="554" height="298" alt="Screenshot 2025-07-23 220007" src="https://github.com/user-attachments/assets/813a3704-e8cd-4f23-a616-78890ac57168" />
+
+<img width="712" height="483" alt="Screenshot 2025-07-23 215940" src="https://github.com/user-attachments/assets/5f4f3099-f415-4525-880f-64f1f75378ed" />
+
+<img width="554" height="298" alt="Screenshot 2025-07-23 220007" src="https://github.com/user-attachments/assets/46231c84-10b8-45b4-b4b1-2b8fff7264bb" />
