@@ -37,6 +37,7 @@ Languages: Python  Libraries:
  sklearn.feature_extraction.text.TfidfVectorizer – Text vectorization.
 
 ## outputs
+## VISUAL REPRESENTATION OF CHURN_MODELLING
 <img width="660" height="584" alt="Screenshot 2025-07-23 220017" src="https://github.com/user-attachments/assets/254b2256-9973-415c-984f-eb5f69470f2c" />
 
 <img width="712" height="483" alt="Screenshot 2025-07-23 215940" src="https://github.com/user-attachments/assets/5f4f3099-f415-4525-880f-64f1f75378ed" />
@@ -46,5 +47,6 @@ Languages: Python  Libraries:
 <img width="662" height="581" alt="Screenshot 2025-07-23 215954" src="https://github.com/user-attachments/assets/f60a79eb-4248-4cdd-93db-5a40c2b4878b" />
 
 <img width="539" height="306" alt="Screenshot 2025-07-23 222404" src="https://github.com/user-attachments/assets/84f274ec-c8cc-4f8e-9a13-e898c522e97e" />
- ## VISUAL REPRESENTATION OF
+
+ ## VISUAL REPRESENTATION OF SPAM
 
