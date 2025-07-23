@@ -61,3 +61,12 @@ Languages: Python  Libraries:
  <img width="852" height="654" alt="Screenshot 2025-07-23 225853" src="https://github.com/user-attachments/assets/d53fd5fe-c21d-4e2e-a6df-2dfb757bd62f" />
 
 
+## VISUAL REPRESENTATION OF CREDIT_CARD
+
+<img width="856" height="623" alt="Screenshot 2025-07-23 224337" src="https://github.com/user-attachments/assets/3aa2f7ca-2a7e-4c7b-81ba-7af04a1a8902" />
+
+<img width="702" height="452" alt="Screenshot 2025-07-23 224348" src="https://github.com/user-attachments/assets/586ac378-8399-47de-ba82-75f8d0ee149b" />
+
+<img width="854" height="621" alt="Screenshot 2025-07-23 224401" src="https://github.com/user-attachments/assets/0de9e335-97cd-4d1a-a681-d9d58212e88a" />
+
+
