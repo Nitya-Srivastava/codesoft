@@ -49,4 +49,15 @@ Languages: Python  Libraries:
 <img width="539" height="306" alt="Screenshot 2025-07-23 222404" src="https://github.com/user-attachments/assets/84f274ec-c8cc-4f8e-9a13-e898c522e97e" />
 
  ## VISUAL REPRESENTATION OF SPAM
+ 
+ <img width="760" height="583" alt="Screenshot 2025-07-23 225617" src="https://github.com/user-attachments/assets/76fd55a7-ac11-44df-a6c0-5a25b6cde7ac" />
+
+ <img width="658" height="370" alt="Screenshot 2025-07-23 225719" src="https://github.com/user-attachments/assets/4d24a32d-430e-435d-9d4c-154ede66e625" />
+
+ <img width="778" height="585" alt="Screenshot 2025-07-23 225730" src="https://github.com/user-attachments/assets/c446d44d-5dac-4f64-9848-e505acaa158d" />
+
+ <img width="675" height="377" alt="Screenshot 2025-07-23 225842" src="https://github.com/user-attachments/assets/aad46b9c-bd9e-4203-a654-c429e5853c82" />
+
+ <img width="852" height="654" alt="Screenshot 2025-07-23 225853" src="https://github.com/user-attachments/assets/d53fd5fe-c21d-4e2e-a6df-2dfb757bd62f" />
+
 
