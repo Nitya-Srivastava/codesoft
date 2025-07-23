@@ -1,4 +1,4 @@
-### Machine Learning Internship Projects
+## Machine Learning Internship Projects
 
 ## Overview
 This repository contains three machine learning classification projects completed during my internship. Each task addresses a real-world problem and uses three key supervised learning algorithms:
