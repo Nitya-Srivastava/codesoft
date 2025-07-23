@@ -36,7 +36,7 @@ Languages: Python  Libraries:
   - matplotlib, seaborn data visualization
  sklearn.feature_extraction.text.TfidfVectorizer – Text vectorization.
 
-# outputs
+## outputs
 <img width="660" height="584" alt="Screenshot 2025-07-23 220017" src="https://github.com/user-attachments/assets/254b2256-9973-415c-984f-eb5f69470f2c" />
 
 <img width="712" height="483" alt="Screenshot 2025-07-23 215940" src="https://github.com/user-attachments/assets/5f4f3099-f415-4525-880f-64f1f75378ed" />
